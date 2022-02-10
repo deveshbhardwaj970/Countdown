@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{font-family: sans-serif;
+    color: white;
+}
+.container{
+    width: 550px;
+    height: 500px;
+    background-image: linear-gradient(to bottom, red, yellow); 
+    text-align: center;
+    margin-top: 15vh;
+}
+.row{
+    margin-top: 50px;
+}
+.col-12{
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
